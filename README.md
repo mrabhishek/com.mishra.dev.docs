@@ -1,2 +1,2 @@
 # com.mishra.dev.docs
-Documentations
+Documentation related to com.mishra.dev.* projects.
